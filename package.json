@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-solr",
+  "version": "1.0.0",
+  "description": "NodeJs Solr Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/manjufy/Nodejs-solr.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Solr"
+  ],
+  "author": "Manjunath Reddy <manju16832003@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manjufy/Nodejs-solr/issues"
+  },
+  "homepage": "https://github.com/manjufy/Nodejs-solr#readme",
+  "dependencies": {
+    "solr-node": "^1.2.1"
+  }
+}
